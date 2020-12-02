@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2370473-37fd-4cab-bd79-1ffeed074d1d" name="默认更改列表" comment="" />
+    <list default="true" id="e2370473-37fd-4cab-bd79-1ffeed074d1d" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -36,6 +41,7 @@
     <option name="width" value="1020" />
     <option name="height" value="665" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -49,11 +55,6 @@
               <item name="带我看" type="b2602c69:ProjectViewProjectNode" />
               <item name="带我看" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="带我看" type="b2602c69:ProjectViewProjectNode" />
-              <item name="带我看" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -65,6 +66,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hasee\桌面\带我看\scripts" />
+      <recent name="C:\Users\hasee\桌面\带我看" />
       <recent name="C:\Users\Administrator\Desktop\带我看\scripts" />
       <recent name="C:\Users\Administrator\Desktop\带我看\scripts\report" />
     </key>
@@ -97,7 +100,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973404" visible="true" weight="0.15059446" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973404" visible="true" weight="0.15059446" />
       <window_info id="Structure" order="1" sideWeight="0.50265956" side_tool="true" weight="0.30540827" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -108,7 +111,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32833582" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.26449788" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.26487252" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32962963" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32962963" />
       <window_info anchor="bottom" id="调试" order="11" />
