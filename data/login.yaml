@@ -1,0 +1,45 @@
+bnal_login_001:
+  phone: "13546440407"
+  pwd: "123456"
+  expect: "40407"
+  success: True
+bnal_login_002:
+  phone: "13546440407"
+  pwd: "123456"
+  expect: "40407"
+  success: True
+#bnal_login_003:
+#  phone: ""
+#  pwd: "123456"
+#  expect: "请输入正确的手机号码"
+#  success: False
+#bnal_login_004:
+#  username: "13546440407"
+#  pwd: "1234567"
+#  expect: "密码错误"
+#  success: False
+#bnal_login_005:
+#  username: "13546440407"
+#  pwd: "123456f"
+#  expect: "密码错误"
+#  success: False
+#bnal_login_006:
+#  username: "13546440407"
+#  pwd: "123456F"
+#  expect: "密码错误"
+#  success: False
+#bnal_login_007:
+#  username: "13546440407"
+#  pwd: "123456 "
+#  expect: "密码错误"
+#  success: False
+#bnal_login_008:
+#  phone: "13546440407"
+#  pwd: ""
+#  expect: "密码输入有误，请重新输入"
+#  success: False
+#bnal_login_009:
+#  username: "13546440407"
+#  pwd: "123456@"
+#  expect: "密码输入有误，请重新输入"
+#  success: False

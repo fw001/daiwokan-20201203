@@ -1,0 +1,1 @@
+('id', 'com.qjy.teleeye:id/et_reginster_phone_number')

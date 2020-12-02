@@ -1,0 +1,9 @@
+base.py                     15 INFO     获取driver对象：<appium.webdriver.webdriver.WebDriver (session="d5500acb-f19e-4e72-94ae-4cb981cda35e")>
+base.py                     22 INFO     正在查找元素：('id', 'com.qjy.teleeye:id/tv_home_dialog_ok') 超时时间：10 访问频率：0.5
+base.py                     30 INFO     正在点击元素：('id', 'com.qjy.teleeye:id/tv_home_dialog_ok')
+base.py                     22 INFO     正在查找元素：('id', 'com.qjy.teleeye:id/tv_go_app') 超时时间：10 访问频率：0.5
+base.py                     30 INFO     正在点击元素：('id', 'com.qjy.teleeye:id/tv_go_app')
+base.py                     22 INFO     正在查找元素：('id', 'com.qjy.teleeye:id/iv_tabbar_me') 超时时间：10 访问频率：0.5
+base.py                     30 INFO     正在点击元素：('id', 'com.qjy.teleeye:id/iv_tabbar_me')
+base.py                     22 INFO     正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+base.py                     30 INFO     正在点击元素：('id', 'com.qjy.teleeye:id/tv_info_head_name')

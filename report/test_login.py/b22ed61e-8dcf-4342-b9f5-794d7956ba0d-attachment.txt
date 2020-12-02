@@ -1,0 +1,1 @@
+('id', 'com.qjy.teleeye:id/btn_pos')

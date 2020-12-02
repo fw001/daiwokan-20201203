@@ -1,0 +1,12 @@
+page_login.py               84 INFO     【登录业务】正在执行登录操作，用户名：13546440407 密码：
+base.py                     22 INFO     正在查找元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 超时时间：10 访问频率：0.5
+base.py                     38 INFO     正在对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 执行清空操作
+base.py                     41 INFO     对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 执行 输入：13546440407
+base.py                     22 INFO     正在查找元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 超时时间：10 访问频率：0.5
+base.py                     38 INFO     正在对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 执行清空操作
+base.py                     41 INFO     对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 执行 输入：
+base.py                     22 INFO     正在查找元素：('id', 'com.qjy.teleeye:id/tv_register_enter') 超时时间：10 访问频率：0.5
+base.py                     30 INFO     正在点击元素：('id', 'com.qjy.teleeye:id/tv_register_enter')
+base.py                     22 INFO     正在查找元素：('xpath', "//*[contains(@text,'密码输入有误，请重新输入')]") 超时时间：10 访问频率：0.5
+base.py                     51 INFO     获取包含 密码输入有误，请重新输入文本的 toast消息内容:密码输入有误，请重新输入 
+base.py                     22 INFO     正在查找元素：('xpath', "//*[contains(@text,'密码输入有误，请重新输入')]") 超时时间：10 访问频率：0.5

@@ -1,0 +1,1 @@
+('id', 'com.qjy.teleeye:id/tv_info_head_name')

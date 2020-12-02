@@ -1,0 +1,1 @@
+('id', 'com.qjy.teleeye:id/rl_config_log_out')

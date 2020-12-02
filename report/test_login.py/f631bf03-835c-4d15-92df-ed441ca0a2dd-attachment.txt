@@ -1,0 +1,12 @@
+page_login.py               84 INFO     【登录业务】正在执行登录操作，用户名： 密码：123456
+base.py                     22 INFO     正在查找元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 超时时间：10 访问频率：0.5
+base.py                     38 INFO     正在对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 执行清空操作
+base.py                     41 INFO     对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 执行 输入：
+base.py                     22 INFO     正在查找元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 超时时间：10 访问频率：0.5
+base.py                     38 INFO     正在对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 执行清空操作
+base.py                     41 INFO     对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 执行 输入：123456
+base.py                     22 INFO     正在查找元素：('id', 'com.qjy.teleeye:id/tv_register_enter') 超时时间：10 访问频率：0.5
+base.py                     30 INFO     正在点击元素：('id', 'com.qjy.teleeye:id/tv_register_enter')
+base.py                     22 INFO     正在查找元素：('xpath', "//*[contains(@text,'请输入正确的手机号码')]") 超时时间：10 访问频率：0.5
+base.py                     51 INFO     获取包含 请输入正确的手机号码文本的 toast消息内容:请输入正确的手机号码 
+base.py                     22 INFO     正在查找元素：('xpath', "//*[contains(@text,'请输入正确的手机号码')]") 超时时间：10 访问频率：0.5

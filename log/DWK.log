@@ -1,0 +1,114 @@
+2020-12-02 22:29:31,930 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="e20d3840-2cb1-46e0-ae98-ee32c7ef750d")>
+2020-12-02 22:29:31,930 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_home_dialog_ok') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:32,410 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_home_dialog_ok')
+2020-12-02 22:29:39,550 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_go_app') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:39,980 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_go_app')
+2020-12-02 22:29:39,994 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/iv_tabbar_me') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:41,570 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/iv_tabbar_me')
+2020-12-02 22:29:41,570 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:42,560 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_info_head_name')
+2020-12-02 22:29:42,560 INFO [root] [page_login.py (page_login:84] - 【登录业务】正在执行登录操作，用户名：13546440407 密码：123456
+2020-12-02 22:29:42,560 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:43,390 INFO [root] [base.py (base_input:38] - 正在对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 执行清空操作
+2020-12-02 22:29:44,540 INFO [root] [base.py (base_input:41] - 对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 执行 输入：13546440407
+2020-12-02 22:29:44,540 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:45,050 INFO [root] [base.py (base_input:38] - 正在对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 执行清空操作
+2020-12-02 22:29:46,070 INFO [root] [base.py (base_input:41] - 对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 执行 输入：123456
+2020-12-02 22:29:46,070 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_register_enter') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:46,630 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_register_enter')
+2020-12-02 22:29:46,630 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:48,110 INFO [root] [base.py (base_get_text:45] - 获取：('id', 'com.qjy.teleeye:id/tv_info_head_name') 元素的文本：40407
+2020-12-02 22:29:48,110 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:48,150 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:48,190 INFO [root] [base.py (base_get_text:45] - 获取：('id', 'com.qjy.teleeye:id/tv_info_head_name') 元素的文本：40407
+2020-12-02 22:29:48,190 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:48,220 INFO [root] [page_login.py (page_logout:77] - 正在执行退出登录业务方法
+2020-12-02 22:29:48,220 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_me_setting') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:48,315 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_me_setting')
+2020-12-02 22:29:48,315 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/rl_config_log_out') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:49,010 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/rl_config_log_out')
+2020-12-02 22:29:49,010 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/btn_pos') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:49,590 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/btn_pos')
+2020-12-02 22:29:49,590 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:50,400 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_info_head_name')
+2020-12-02 22:29:50,420 INFO [root] [page_login.py (page_login:84] - 【登录业务】正在执行登录操作，用户名：13546440407 密码：123456
+2020-12-02 22:29:50,420 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:51,500 INFO [root] [base.py (base_input:38] - 正在对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 执行清空操作
+2020-12-02 22:29:52,510 INFO [root] [base.py (base_input:41] - 对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 执行 输入：13546440407
+2020-12-02 22:29:52,510 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:53,020 INFO [root] [base.py (base_input:38] - 正在对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 执行清空操作
+2020-12-02 22:29:53,550 INFO [root] [base.py (base_input:41] - 对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 执行 输入：123456
+2020-12-02 22:29:53,550 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_register_enter') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:54,610 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_register_enter')
+2020-12-02 22:29:54,610 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:56,050 INFO [root] [base.py (base_get_text:45] - 获取：('id', 'com.qjy.teleeye:id/tv_info_head_name') 元素的文本：40407
+2020-12-02 22:29:56,050 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:56,090 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:56,136 INFO [root] [base.py (base_get_text:45] - 获取：('id', 'com.qjy.teleeye:id/tv_info_head_name') 元素的文本：40407
+2020-12-02 22:29:56,136 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:56,180 INFO [root] [page_login.py (page_logout:77] - 正在执行退出登录业务方法
+2020-12-02 22:29:56,180 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_me_setting') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:56,880 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_me_setting')
+2020-12-02 22:29:56,880 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/rl_config_log_out') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:57,570 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/rl_config_log_out')
+2020-12-02 22:29:57,570 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/btn_pos') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:57,640 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/btn_pos')
+2020-12-02 22:29:57,640 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:29:59,626 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_info_head_name')
+2020-12-02 22:30:35,990 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="d5500acb-f19e-4e72-94ae-4cb981cda35e")>
+2020-12-02 22:30:35,990 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_home_dialog_ok') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:36,490 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_home_dialog_ok')
+2020-12-02 22:30:43,640 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_go_app') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:44,080 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_go_app')
+2020-12-02 22:30:44,080 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/iv_tabbar_me') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:45,490 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/iv_tabbar_me')
+2020-12-02 22:30:45,490 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:46,530 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_info_head_name')
+2020-12-02 22:30:46,530 INFO [root] [page_login.py (page_login:84] - 【登录业务】正在执行登录操作，用户名：13546440407 密码：123456
+2020-12-02 22:30:46,530 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:47,460 INFO [root] [base.py (base_input:38] - 正在对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 执行清空操作
+2020-12-02 22:30:49,310 INFO [root] [base.py (base_input:41] - 对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 执行 输入：13546440407
+2020-12-02 22:30:49,310 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:49,850 INFO [root] [base.py (base_input:38] - 正在对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 执行清空操作
+2020-12-02 22:30:51,820 INFO [root] [base.py (base_input:41] - 对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 执行 输入：123456
+2020-12-02 22:30:51,820 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_register_enter') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:52,370 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_register_enter')
+2020-12-02 22:30:52,370 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:53,840 INFO [root] [base.py (base_get_text:45] - 获取：('id', 'com.qjy.teleeye:id/tv_info_head_name') 元素的文本：40407
+2020-12-02 22:30:53,840 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:53,870 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:53,900 INFO [root] [base.py (base_get_text:45] - 获取：('id', 'com.qjy.teleeye:id/tv_info_head_name') 元素的文本：40407
+2020-12-02 22:30:53,900 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:53,930 INFO [root] [page_login.py (page_logout:77] - 正在执行退出登录业务方法
+2020-12-02 22:30:53,930 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_me_setting') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:54,810 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_me_setting')
+2020-12-02 22:30:54,810 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/rl_config_log_out') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:54,875 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/rl_config_log_out')
+2020-12-02 22:30:54,880 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/btn_pos') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:55,870 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/btn_pos')
+2020-12-02 22:30:55,870 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:57,280 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_info_head_name')
+2020-12-02 22:30:57,290 INFO [root] [page_login.py (page_login:84] - 【登录业务】正在执行登录操作，用户名：13546440407 密码：123456
+2020-12-02 22:30:57,290 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:57,950 INFO [root] [base.py (base_input:38] - 正在对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 执行清空操作
+2020-12-02 22:30:58,860 INFO [root] [base.py (base_input:41] - 对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_number') 执行 输入：13546440407
+2020-12-02 22:30:58,860 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 超时时间：10 访问频率：0.5
+2020-12-02 22:30:59,870 INFO [root] [base.py (base_input:38] - 正在对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 执行清空操作
+2020-12-02 22:31:00,870 INFO [root] [base.py (base_input:41] - 对元素：('id', 'com.qjy.teleeye:id/et_reginster_phone_code') 执行 输入：123456
+2020-12-02 22:31:00,870 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_register_enter') 超时时间：10 访问频率：0.5
+2020-12-02 22:31:02,000 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_register_enter')
+2020-12-02 22:31:02,010 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:31:03,530 INFO [root] [base.py (base_get_text:45] - 获取：('id', 'com.qjy.teleeye:id/tv_info_head_name') 元素的文本：40407
+2020-12-02 22:31:03,530 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:31:03,560 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:31:03,600 INFO [root] [base.py (base_get_text:45] - 获取：('id', 'com.qjy.teleeye:id/tv_info_head_name') 元素的文本：40407
+2020-12-02 22:31:03,600 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:31:03,630 INFO [root] [page_login.py (page_logout:77] - 正在执行退出登录业务方法
+2020-12-02 22:31:03,630 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_me_setting') 超时时间：10 访问频率：0.5
+2020-12-02 22:31:03,701 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_me_setting')
+2020-12-02 22:31:03,701 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/rl_config_log_out') 超时时间：10 访问频率：0.5
+2020-12-02 22:31:04,902 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/rl_config_log_out')
+2020-12-02 22:31:04,910 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/btn_pos') 超时时间：10 访问频率：0.5
+2020-12-02 22:31:04,970 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/btn_pos')
+2020-12-02 22:31:04,970 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.qjy.teleeye:id/tv_info_head_name') 超时时间：10 访问频率：0.5
+2020-12-02 22:31:06,860 INFO [root] [base.py (base_click:30] - 正在点击元素：('id', 'com.qjy.teleeye:id/tv_info_head_name')
