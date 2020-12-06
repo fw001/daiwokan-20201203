@@ -3,11 +3,11 @@ bnal_login_001:
   pwd: "123456"
   expect: "40407"
   success: True
-bnal_login_002:
-  phone: "13546440407"
-  pwd: "123456"
-  expect: "40407"
-  success: True
+#bnal_login_002:
+#  phone: "13546440407"
+#  pwd: "123456"
+#  expect: "40407"
+#  success: True
 #bnal_login_003:
 #  phone: ""
 #  pwd: "123456"
